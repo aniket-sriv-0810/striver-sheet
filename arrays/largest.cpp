@@ -17,3 +17,5 @@ int main(){
     cout<<"Max ->"<<largest(nums)<<endl;
     return 0;
 }
+//TC : O(n)
+// SC : O(1)
